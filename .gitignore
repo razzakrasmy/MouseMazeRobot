@@ -1,0 +1,42 @@
+# STM32CubeIDE build output
+Debug/
+Release/
+.build/
+.build-*/
+*.o
+*.d
+*.elf
+*.hex
+*.bin
+*.map
+*.list
+*.lss
+
+# STM32CubeIDE metadata
+.settings/
+.metadata/
+.cproject
+.project
+
+# STM32CubeMX backups
+*.ioc.backup
+
+# VS Code (optional)
+.vscode/
+*.code-workspace
+
+# OS-specific junk
+.DS_Store
+Thumbs.db
+ehthumbs.db
+Icon?
+
+# Logs & temp
+*.log
+*~
+*.swp
+*.bak
+
+# Altium temp files
+*.PrjPcbStructure
+*.PcbDocPreview
