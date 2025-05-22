@@ -1,0 +1,17 @@
+../Src/main.c:100:6:HAL_GPIO_EXTI_Callback	5
+../Src/main.c:139:6:turn_90_degrees_left	3
+../Src/main.c:150:6:stop	1
+../Src/main.c:157:6:MoveMotorLeftBackward	1
+../Src/main.c:168:6:MoveMotorLeftForward	1
+../Src/main.c:179:6:MoveMotorRightBackward	1
+../Src/main.c:190:6:MoveMotorRightForward	1
+../Src/main.c:200:6:FollowLine	7
+../Src/main.c:226:6:follow_right_wall	5
+../Src/main.c:273:5:read_sensor	1
+../Src/main.c:284:5:main	1
+../Src/main.c:359:6:SystemClock_Config	4
+../Src/main.c:420:13:MX_TIM2_Init	7
+../Src/main.c:483:13:MX_USART1_UART_Init	2
+../Src/main.c:518:13:MX_USART2_UART_Init	2
+../Src/main.c:553:13:MX_GPIO_Init	1
+../Src/main.c:624:6:Error_Handler	1
